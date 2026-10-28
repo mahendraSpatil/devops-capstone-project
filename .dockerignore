@@ -1,0 +1,10 @@
+.git
+.github
+.devcontainer
+venv
+tests
+tekton
+deploy
+*.md
+__pycache__
+.coverage
